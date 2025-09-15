@@ -6,8 +6,8 @@ This project was created as part of my portfolio to demonstrate my practical Pyt
 
 ## How to Use
 
-1.  **Download:** Download the `start.py` script.
-2.  **Place Script:** Move the `start.py` file into the folder you want to organize (for example, your "Downloads" folder).
+1.  **Download:** Download the `Organizer.py` script.
+2.  **Place Script:** Move the `Organizer.py` file into the folder you want to organize (for example, your "Downloads" folder).
 3.  **Run:** Open a terminal or command prompt, navigate to that folder, and run the script using the command:
     ```
     python Organizer.py
